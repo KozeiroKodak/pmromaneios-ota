@@ -1,7 +1,7 @@
 {
-  "webVersion": "0.0.32",
+  "webVersion": "0.0.33",
   "nativeMinVersion": "1.0",
-  "package": "https://github.com/KozeiroKodak/pmromaneios-ota/releases/download/ota-web-0.0.32/pmromaneios-web-0.0.32.zip",
-  "sha256": "7afa8aa77f47e7c68d9c124b39e1fda5316672d7f8764e121646bc3f2a5e7b82",
+  "package": "https://github.com/KozeiroKodak/pmromaneios-ota/releases/download/ota-web-0.0.33/pmromaneios-web-0.0.33.zip",
+  "sha256": "4e8f1a00b583adea395c16d3bd78ca3db66ced263aa2bead042d7fc85b3c9277",
   "mandatory": false
 }
