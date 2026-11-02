@@ -1,10 +1,10 @@
 {
-  "webVersion": "0.0.37",
+  "webVersion": "0.0.38",
   "nativeMinVersion": "1.0",
-  "package": "https://github.com/KozeiroKodak/pmromaneios-ota/releases/download/ota-web-0.0.37/pmromaneios-web-0.0.37.zip",
-  "sha256": "a488c88d4ec1042bae88117e89b26afee049ff9501e5fb6cb7e92031c55408a1",
+  "package": "https://github.com/KozeiroKodak/pmromaneios-ota/releases/download/ota-web-0.0.38/pmromaneios-web-0.0.38.zip",
+  "sha256": "33ce83559b5fb2b964ba607cd9e4f264bc2a9061e63f40b07a5001d33656fd84",
   "mandatory": false,
-  "sizeBytes": 81429,
-  "publishedAt": "2026-11-01T22:00:53.970787+00:00",
-  "releaseNotes": "Uma central de atualizações no mesmo padrão do PMobile.\n\n• Versões instalada e disponível, progresso e etapas do download.\n• Download em segundo plano e aplicação somente quando você escolher.\n• Confirmação da abertura, recuperação de falhas e nova tentativa segura.\n\nO painel completo e a recuperação exigem o novo APK 1.1. APKs anteriores usam seu atualizador instalado."
+  "sizeBytes": 59646,
+  "publishedAt": "2026-11-02T03:43:08.865411+00:00",
+  "releaseNotes": "PMRomaneios: limpeza de estruturas antigas e código sem uso.\n\nPesquisa, Locais e popup sem carregamento foram retirados, junto de suas folhas de estilo. Funções de cadastro, administração e zeramento sem telas correspondentes foram removidas. Contagem manual, login, sincronização, primeiro acesso e OTA foram preservados. Estilos sem elementos correspondentes e testes de exemplo do Capacitor foram retirados.\n\nDados locais, filas pendentes e integrações atuais preservados."
 }
