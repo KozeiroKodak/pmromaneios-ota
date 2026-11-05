@@ -1,10 +1,10 @@
 {
-  "webVersion": "0.0.38",
+  "webVersion": "0.0.39",
   "nativeMinVersion": "1.0",
-  "package": "https://github.com/KozeiroKodak/pmromaneios-ota/releases/download/ota-web-0.0.38/pmromaneios-web-0.0.38.zip",
-  "sha256": "33ce83559b5fb2b964ba607cd9e4f264bc2a9061e63f40b07a5001d33656fd84",
+  "package": "https://github.com/KozeiroKodak/pmromaneios-ota/releases/download/ota-web-0.0.39/pmromaneios-web-0.0.39.zip",
+  "sha256": "5fd78ecf484f8bd061be4e34fc35fc4ab8fbca2b35f981229f26d420691ca8d8",
   "mandatory": false,
-  "sizeBytes": 59646,
-  "publishedAt": "2026-11-02T03:43:08.865411+00:00",
+  "sizeBytes": 61515,
+  "publishedAt": "2026-11-05T09:56:33.154147+00:00",
   "releaseNotes": "PMRomaneios: limpeza de estruturas antigas e código sem uso.\n\nPesquisa, Locais e popup sem carregamento foram retirados, junto de suas folhas de estilo. Funções de cadastro, administração e zeramento sem telas correspondentes foram removidas. Contagem manual, login, sincronização, primeiro acesso e OTA foram preservados. Estilos sem elementos correspondentes e testes de exemplo do Capacitor foram retirados.\n\nDados locais, filas pendentes e integrações atuais preservados."
 }
